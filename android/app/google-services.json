@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "757777180840",
+    "project_id": "graviitee-5ec20",
+    "storage_bucket": "graviitee-5ec20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757777180840:android:726c60394cc56c349b3a9d",
+        "android_client_info": {
+          "package_name": "graviitee.pixi.tn.graviitee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757777180840-rnn82grsrctlhduk2is4r7kvsj6drphv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "graviitee.pixi.tn.graviitee",
+            "certificate_hash": "18c6c53af4c1b81747fc0fe56e5c0c717f14d2c4"
+          }
+        },
+        {
+          "client_id": "757777180840-r8ctde7m7phn9a7undilkud575l25095.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj5n6iaqV3jVPrwTn_QkR21nyMch_B7Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757777180840-r8ctde7m7phn9a7undilkud575l25095.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
